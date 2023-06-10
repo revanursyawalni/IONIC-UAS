@@ -1,0 +1,7 @@
+{
+  "name": "ChallMP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
